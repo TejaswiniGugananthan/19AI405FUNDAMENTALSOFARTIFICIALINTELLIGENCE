@@ -237,7 +237,7 @@ if __name__ == "__main__":
 
 
 <hr>
-<h2>Sample Input and Output</h2>
+<h2>Input and Output:</h2>
 
 <img width="200" alt="image" src="https://github.com/TejaswiniGugananthan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121222763/519a04c6-6529-4f4f-848a-c38cab4d4a51">
 
