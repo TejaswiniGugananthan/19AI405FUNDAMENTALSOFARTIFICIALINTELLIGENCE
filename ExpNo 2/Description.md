@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: G.TEJASWINI</h3>
+<h3>Register Number:212222230157</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -67,28 +67,9 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 </ol>
 
-<hr>
-<h3>Sample Input</h3>
-<hr>
-7 9 <BR>
-A B <BR>
-A C <BR>
-A F <BR>
-C E <BR>
-C F <BR>
-C D <BR>
-D E <BR>
-D G <BR>
-G F <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
-['A', 'B', 'C', 'F', 'E', 'D', 'G']
 
 <hr>
-
-<hr>
-<h3>Sample Input</h3>
+<h3>Input</h3>
 <hr>
 5 6 <BR>
 0 1 <BR>
@@ -97,11 +78,11 @@ G F <BR>
 1 3 <BR>
 2 4 <BR>
 3 4 <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
-['0', '1', '2', '3', '4']
-<hr>
+
+#  Output:
+<img width="187" alt="image" src="https://github.com/TejaswiniGugananthan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121222763/483f0137-216d-4541-bbad-a973a815f982">
+
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
