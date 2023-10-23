@@ -187,3 +187,7 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+
+# RESULT:
+Thus,a Graph was constructed and implementation of A* Algorithm for the same graph was done successfully.
