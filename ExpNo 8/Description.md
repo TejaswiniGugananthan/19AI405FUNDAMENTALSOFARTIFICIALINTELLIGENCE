@@ -142,7 +142,7 @@ Thus a Implementation of Wumpus World Problem using Python demonstrating Inferen
 
 
 
-
+```python
 #DFS                                                                                                                                                                                      
 from collections import defaultdict                          
 def dfs(graph,start,visited,path):
@@ -1271,7 +1271,7 @@ while(player):
         score-=1000
         print("Ahhhhh!!!!\nYou fell in pit.\nAnd your score is: ",score,"\n")
         break
-
+```
 
 
 
